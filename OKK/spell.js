@@ -1,0 +1,1 @@
+alert("Speller mode cannot be hacked at this time. Sorry!");
